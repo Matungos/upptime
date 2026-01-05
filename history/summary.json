@@ -4,17 +4,17 @@
     "url": "https://api.montevideo.gub.uy/transporteRest/variantes/3873",
     "icon": "https://icons.duckduckgo.com/ip3/api.montevideo.gub.uy.ico",
     "slug": "im-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2713,
-    "timeDay": 1310,
-    "timeWeek": 1715,
-    "timeMonth": 3005,
-    "timeYear": 2713,
+    "time": 2703,
+    "timeDay": 2113,
+    "timeWeek": 1754,
+    "timeMonth": 2970,
+    "timeYear": 2703,
     "dailyMinutesDown": {}
   }
 ]
