@@ -1,9 +1,16 @@
 owner: Matungos
 repo: upptime
+user-agent: Matungos
 
 sites:
   - name: IM API
+    method: GET
     url: https://api.montevideo.gub.uy/transporteRest/variantes/3873
+    expectedStatusCodes:
+      - 200
+    __dangerous__disable_verify_peer: true
+    headers:
+      - "User-Agent: Matungos"
 
 status-website:
   cname: uptime.matungos.com
