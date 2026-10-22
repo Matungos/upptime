@@ -1,7 +1,7 @@
 url: https://api.montevideo.gub.uy/transporteRest/variantes/3873
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-10-22T19:27:36.086Z
+status: up
+code: 200
+responseTime: 42276
+lastUpdated: 2026-10-22T22:40:09.850Z
 startTime: 2026-05-28T12:30:30.796Z
 generator: Upptime <https://github.com/upptime/upptime>
